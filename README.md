@@ -3,13 +3,20 @@
 Booking System for Cinema realised in php
 
 Graphic User interface as below
+Main Page:
 ![image](https://github.com/AndreaMishtaku/CinemaBookingSystem/assets/103496698/8b44d166-1907-4860-a2c0-ac1b41cdb501)
 
-Register page
+---
+
+Register page:
 ![image](https://github.com/AndreaMishtaku/CinemaBookingSystem/assets/103496698/03998fa8-2890-4b32-9965-e1127abb1bc7)
 
-Log in page
+---
+
+Log in page:
 ![image](https://github.com/AndreaMishtaku/CinemaBookingSystem/assets/103496698/7dfc159c-a4d1-411b-b21c-db7d6f982019)
+
+---
 
 ![image](https://github.com/AndreaMishtaku/CinemaBookingSystem/assets/103496698/76f6b040-837b-49f1-a82f-778eda90fd16)
 
