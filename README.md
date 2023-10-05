@@ -2,8 +2,10 @@
 
 Booking System for Cinema realised in php
 
-Graphic User interface as below
+Graphic user interface as below:
+
 ---
+
 Main Page:
 ![image](https://github.com/AndreaMishtaku/CinemaBookingSystem/assets/103496698/8b44d166-1907-4860-a2c0-ac1b41cdb501)
 
