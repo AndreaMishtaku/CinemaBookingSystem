@@ -1,0 +1,14 @@
+<?php
+session_start();
+$_SESSION['shfaqja_id']=$_GET['shfaqja_id'];
+$_SESSION['film_id']=$_GET['film_id'];
+$_SESSION['kinema_id']=$_GET['kinema_id'];
+if(isset($_SESSION['emer_perdorues']))
+{
+    header('location:booking.php');
+}
+else
+{
+    header('location:login.php');
+}
+?>
